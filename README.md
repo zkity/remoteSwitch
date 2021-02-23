@@ -2,6 +2,8 @@
 
 ## 讲解及演示见B站
 
+[B站链接](https://www.bilibili.com/video/BV18v4y1o7QY)
+
 ## 成品图
 
 ![](2021-01-31-21-45-09.png)
